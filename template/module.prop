@@ -1,0 +1,6 @@
+id=liveboot
+name=LiveBoot
+version=v1.0
+versionCode=10
+author=d224407
+description=A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
